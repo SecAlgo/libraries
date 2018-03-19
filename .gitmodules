@@ -1,0 +1,3 @@
+[submodule "Python/pycrypto"]
+	path = Python/pycrypto
+	url = https://github.com/dlitz/pycrypto
