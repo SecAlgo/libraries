@@ -1,3 +1,12 @@
 [submodule "Python/pycrypto"]
 	path = Python/pycrypto
 	url = https://github.com/dlitz/pycrypto
+[submodule "Python/pycryptodome"]
+	path = Python/pycryptodome
+	url = https://github.com/legrandin/pycryptodome
+[submodule "Python/cryptography"]
+	path = Python/cryptography
+	url = https://github.com/pyca/cryptography
+[submodule "Python/m2crypto"]
+	path = Python/m2crypto
+	url = https://gitlab.com/m2crypto/m2crypto
