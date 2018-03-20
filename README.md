@@ -55,6 +55,6 @@ Latest version: 2.6.1 (10/14/2013).
 
 # Other resources
 
-[Comparison of cryptography libraries](https://en.wikipedia.org/wiki/Comparison_of_cryptography_libraries)
-[Source available cryptographic libraries](https://adam.shostack.org/crypto/index.html)
-[Cryptographic software](https://en.wikipedia.org/wiki/Category:Cryptographic_software)
+- [Comparison of cryptography libraries](https://en.wikipedia.org/wiki/Comparison_of_cryptography_libraries)
+- [Source available cryptographic libraries](https://adam.shostack.org/crypto/index.html)
+- [Cryptographic software](https://en.wikipedia.org/wiki/Category:Cryptographic_software)
