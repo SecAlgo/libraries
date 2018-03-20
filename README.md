@@ -8,7 +8,7 @@ a brief description of its main features.
 - [libraries](#libraries)
     - [Python](#python)
         - [PyCrypto](#pycrypto)
-        - [cryptography.io](#cryptography.io)
+        - [cryptography.io](#cryptographyio)
         - [M2Crypto](#m2crypto)
         - [PyCryptodome](#pycryptodome)
     - [C](#c)
