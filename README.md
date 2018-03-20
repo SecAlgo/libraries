@@ -52,3 +52,7 @@ Latest version: 2.6.1 (10/14/2013).
 
 ## Java
 
+
+# Other resources
+
+[Comparison of cryptography libraries](https://en.wikipedia.org/wiki/Comparison_of_cryptography_libraries)
