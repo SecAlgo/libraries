@@ -4,7 +4,6 @@
 A curated collection of cryptographic libraries. For each library, we provide a
 a brief description of its main features.
 
-
 - [libraries](#libraries)
     - [Python](#python)
         - [PyCrypto](#pycrypto)
@@ -16,9 +15,7 @@ a brief description of its main features.
     - [Java](#java)
         - [Bouncy Castle](#bouncycastle)
 
-
 ------
-
 
 ## [Python](Python/)
 
@@ -33,13 +30,10 @@ module, and a small set of useful mathematical operations.
 Latest version: 2.6.1 (10/14/2013).
 
 [Homepage](https://www.dlitz.net/software/pycrypto/)
-[Github](https://github.com/dlitz/pycrypto)
+[GitHub](https://github.com/dlitz/pycrypto)
 [PyPi](https://pypi.python.org/pypi/pycrypto/2.6.1) 
-[API Documentation](https://www.dlitz.net/software/pycrypto/api/current/)
-[Configuration Details](Python/PyCrypto.config)
-
-
-------
+[API documentation](https://www.dlitz.net/software/pycrypto/api/current/)
+[Configuration details](Python/PyCrypto.config)
 
 
 #### cryptography.io
@@ -50,9 +44,11 @@ Latest version: 2.6.1 (10/14/2013).
 
 #### PyCryptodome
 
+------
 
 ## C
 
+------
 
 ## Java
 
