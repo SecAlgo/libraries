@@ -24,8 +24,8 @@ a brief description of its main features.
 
 
 #### PyCrypto 
-C implementations of cryptographic algorithms wrapped in a Python
-interface. Includes implementations of cryptographic algorithms for shared key
+Python library of cryptographic algorithms implemented in C.
+Includes cryptographic algorithms for shared key
 and public key encryption and authentication, cryptographic hashes, and key
 derivation. Also provides a secure PRNG, a strong version of Python's random
 module, and a small set of useful mathematical operations.
@@ -35,7 +35,7 @@ Latest version: 2.6.1 (10/14/2013).
 [Homepage](https://www.dlitz.net/software/pycrypto/)
 [Github](https://github.com/dlitz/pycrypto)
 [PyPi](https://pypi.python.org/pypi/pycrypto/2.6.1) 
-[Documentation](https://www.dlitz.net/software/pycrypto/api/current/)
+[API Documentation](https://www.dlitz.net/software/pycrypto/api/current/)
 [Configuration Details](Python/PyCrypto.config)
 
 
