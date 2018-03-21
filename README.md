@@ -1,6 +1,5 @@
 # libraries
 
-
 A curated collection of cryptographic libraries. For each library, we provide a
 a brief description of its main features.
 
@@ -19,7 +18,6 @@ a brief description of its main features.
 
 ## [Python](Python/)
 
-
 #### PyCrypto 
 Python library of cryptographic algorithms implemented in C.
 Includes cryptographic algorithms for shared key
@@ -35,14 +33,19 @@ Latest version: 2.6.1 (10/14/2013).
 [API documentation](https://www.dlitz.net/software/pycrypto/api/current/)
 [Configuration details](Python/PyCrypto.config)
 
-
 #### cryptography.io
-
 
 #### M2Crypto
 
-
 #### PyCryptodome
+
+Latest version: 3.5.1 (03/
+
+[Homepage](https://www.pycryptodome.org/en/latest/)
+[GitHub](https://github.com/Legrandin/pycryptodome)
+[PyPi](https://pypi.python.org/pypi/pycryptodomex)
+[API documentation](https://pycryptodome.readthedocs.io/en/latest/)
+[Configuration details](Python/PyCryptodome.config)
 
 ------
 
