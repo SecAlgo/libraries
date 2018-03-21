@@ -28,9 +28,12 @@ module, and a small set of useful mathematical operations.
 Latest version: 2.6.1 (10/14/2013).
 
 [Homepage](https://www.dlitz.net/software/pycrypto/)
+
 [GitHub](https://github.com/dlitz/pycrypto)
-[PyPi](https://pypi.python.org/pypi/pycrypto/2.6.1) 
+[PyPi](https://pypi.python.org/pypi/pycrypto/2.6.1)
+
 [API documentation](https://www.dlitz.net/software/pycrypto/api/current/)
+
 [Configuration details](Python/PyCrypto.config)
 
 #### cryptography.io
@@ -42,9 +45,13 @@ Latest version: 2.6.1 (10/14/2013).
 Latest version: 3.5.1 (03/07/2018)
 
 [Homepage](https://www.pycryptodome.org/en/latest/)
+
 [GitHub](https://github.com/Legrandin/pycryptodome)
+
 [PyPi](https://pypi.python.org/pypi/pycryptodomex)
+
 [API documentation](https://pycryptodome.readthedocs.io/en/latest/)
+
 [Configuration details](Python/PyCryptodome.config)
 
 ------
