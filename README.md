@@ -39,7 +39,7 @@ Latest version: 2.6.1 (10/14/2013).
 
 #### PyCryptodome
 
-Latest version: 3.5.1 (03/
+Latest version: 3.5.1 (03/07/2018)
 
 [Homepage](https://www.pycryptodome.org/en/latest/)
 [GitHub](https://github.com/Legrandin/pycryptodome)
