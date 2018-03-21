@@ -27,13 +27,10 @@ module, and a small set of useful mathematical operations.
 
 Latest version: 2.6.1 (10/14/2013).
 
-[Homepage](https://www.dlitz.net/software/pycrypto/)
-
-[GitHub](https://github.com/dlitz/pycrypto)
-[PyPi](https://pypi.python.org/pypi/pycrypto/2.6.1)
-
-[API documentation](https://www.dlitz.net/software/pycrypto/api/current/)
-
+[Homepage](https://www.dlitz.net/software/pycrypto/) -
+[GitHub](https://github.com/dlitz/pycrypto) -
+[PyPi](https://pypi.python.org/pypi/pycrypto/2.6.1) -
+[API documentation](https://www.dlitz.net/software/pycrypto/api/current/) -
 [Configuration details](Python/PyCrypto.config)
 
 #### cryptography.io
