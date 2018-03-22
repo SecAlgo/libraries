@@ -44,7 +44,7 @@ Latest version: 3.5.1 (03/07/2018)
 [Homepage](https://www.pycryptodome.org/en/latest/) -
 [GitHub](https://github.com/Legrandin/pycryptodome) -
 [PyPi](https://pypi.python.org/pypi/pycryptodomex) -
-[API documentation](https://pycryptodome.readthedocs.io/en/latest/) -
+[Documentation](https://pycryptodome.readthedocs.io/en/latest/) -
 [Configuration details](Python/PyCryptodome.config)
 
 ------
