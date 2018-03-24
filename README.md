@@ -25,6 +25,7 @@ and public key encryption and authentication, cryptographic hashes, and key
 derivation. Also provides a secure PRNG, a strong version of Python's random
 module, and a small set of useful mathematical operations.
 
+Developer: [Dwayne Litzenberger](https://www.dlitz.net/). 
 Latest version: 2.6.1 (10/14/2013).
 
 [Homepage](https://www.dlitz.net/software/pycrypto/) -
