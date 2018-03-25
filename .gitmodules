@@ -10,3 +10,6 @@
 [submodule "Python/m2crypto"]
 	path = Python/m2crypto
 	url = https://gitlab.com/m2crypto/m2crypto
+[submodule "Python/pyopenssl"]
+	path = Python/pyopenssl
+	url = https://github.com/pyca/pyopenssl

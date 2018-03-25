@@ -18,6 +18,36 @@ a brief description of its main features.
 
 ## [Python](Python/)
 
+#### cryptography.io
+
+Latest version: 2.2.1 (03/20/2018)
+
+[Homepage](https://cryptography.io/en/latest/) -
+[GitHub](https://github.com/pyca/cryptography) -
+[PyPi](https://pypi.python.org/pypi/cryptography/) -
+[API documentation](https://cryptography.io/en/latest/) -
+[Configuration details](Python/cryptographyio.config)
+
+#### M2Crypto
+
+Latest version: 0.29 (02/23/2018)
+
+[Homepage](https://gitlab.com/m2crypto/m2crypto) -
+[GitHub](https://gitlab.com/m2crypto/m2crypto) -
+[PyPi](https://pypi.python.org/pypi/M2Crypto) -
+[API documentation](https://m2crypto.readthedocs.io/en/latest/) -
+[Configuration details](Python/m2crypto.config)
+
+#### pyOpenSSL
+
+Latest version: 17.5.0 (11/30/2017)
+
+[Homepage](https://pyopenssl.org/en/stable/) -
+[GitHub](https://github.com/pyca/pyopenssl) -
+[PyPi](https://pypi.python.org/pypi/pyOpenSSL) -
+[API documentation](https://pyopenssl.org/en/stable/) -
+[Configuration details](Python/pyopenssl.config)
+
 #### PyCrypto 
 Python library of cryptographic algorithms implemented in C.
 Includes cryptographic algorithms for shared key
@@ -33,10 +63,6 @@ Latest version: 2.6.1 (10/14/2013).
 [PyPi](https://pypi.python.org/pypi/pycrypto/2.6.1) -
 [API documentation](https://www.dlitz.net/software/pycrypto/api/current/) -
 [Configuration details](Python/PyCrypto.config)
-
-#### cryptography.io
-
-#### M2Crypto
 
 #### PyCryptodome
 
