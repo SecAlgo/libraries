@@ -7,7 +7,7 @@ a brief description of its main features.
     - [Python](#python)
         - [cryptography.io](#cryptographyio)
         - [M2Crypto](#m2crypto)
-        - [pyOpenSSL] (#pyopenssl)
+        - [pyOpenSSL](#pyopenssl)
         - [PyCrypto](#pycrypto)
         - [PyCryptodome](#pycryptodome)
     - [C](#c)
