@@ -5,9 +5,10 @@ a brief description of its main features.
 
 - [libraries](#libraries)
     - [Python](#python)
-        - [PyCrypto](#pycrypto)
         - [cryptography.io](#cryptographyio)
         - [M2Crypto](#m2crypto)
+        - [pyOpenSSL] (#pyopenssl)
+        - [PyCrypto](#pycrypto)
         - [PyCryptodome](#pycryptodome)
     - [C](#c)
         - [OpenSSL](#openssl)
