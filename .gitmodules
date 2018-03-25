@@ -13,3 +13,12 @@
 [submodule "Python/pyopenssl"]
 	path = Python/pyopenssl
 	url = https://github.com/pyca/pyopenssl
+[submodule "Python/keyczar"]
+	path = Python/keyczar
+	url = https://github.com/google/keyczar
+[submodule "Python/pynacl"]
+	path = Python/pynacl
+	url = https://github.com/pyca/pynacl
+[submodule "Python/pysodium"]
+	path = Python/pysodium
+	url = https://github.com/stef/pysodium

@@ -6,10 +6,13 @@ a brief description of its main features.
 - [libraries](#libraries)
     - [Python](#python)
         - [cryptography.io](#cryptographyio)
+        - [Keyczar](#keyczar)
         - [M2Crypto](#m2crypto)
+        - [pyNaCl](#pynacl)
         - [pyOpenSSL](#pyopenssl)
         - [PyCrypto](#pycrypto)
         - [PyCryptodome](#pycryptodome)
+        - [pysodium](#pysodium)
     - [C](#c)
         - [OpenSSL](#openssl)
     - [Java](#java)
@@ -29,6 +32,16 @@ Latest version: 2.2.1 (03/20/2018)
 [API documentation](https://cryptography.io/en/latest/) -
 [Configuration details](Python/cryptographyio.config)
 
+#### Keyczar
+
+Latest version: 0.716 (05/16/2018)
+
+[Homepage](http://www.keyczar.org/) -
+[GitHub](https://github.com/google/keyczar) -
+[PyPi](https://pypi.python.org/pypi/python-keyczar) -
+[API documentation](https://github.com/google/keyczar/wiki) -
+[Configuration details](Python/Keyczar.config)
+
 #### M2Crypto
 
 Latest version: 0.29 (02/23/2018)
@@ -37,7 +50,17 @@ Latest version: 0.29 (02/23/2018)
 [GitHub](https://gitlab.com/m2crypto/m2crypto) -
 [PyPi](https://pypi.python.org/pypi/M2Crypto) -
 [API documentation](https://m2crypto.readthedocs.io/en/latest/) -
-[Configuration details](Python/m2crypto.config)
+[Configuration details](Python/M2Crypto.config)
+
+#### pyNaCl
+
+Latest version: 1.2.1 (12/04/2018)
+
+[Homepage](https://pynacl.readthedocs.io/en/stable/) -
+[GitHub](https://github.com/pyca/pynacl) -
+[PyPi](https://pypi.python.org/pypi/PyNaCl/) -
+[API documentation](https://pynacl.readthedocs.io/en/stable/) -
+[Configuration details](Python/pyNaCl.config)
 
 #### pyOpenSSL
 
@@ -47,7 +70,7 @@ Latest version: 17.5.0 (11/30/2017)
 [GitHub](https://github.com/pyca/pyopenssl) -
 [PyPi](https://pypi.python.org/pypi/pyOpenSSL) -
 [API documentation](https://pyopenssl.org/en/stable/) -
-[Configuration details](Python/pyopenssl.config)
+[Configuration details](Python/pyOpenSSL.config)
 
 #### PyCrypto 
 Python library of cryptographic algorithms implemented in C.
@@ -74,6 +97,16 @@ Latest version: 3.5.1 (03/07/2018)
 [PyPi](https://pypi.python.org/pypi/pycryptodomex) -
 [Documentation](https://pycryptodome.readthedocs.io/en/latest/) -
 [Configuration details](Python/PyCryptodome.config)
+
+#### pysodium
+
+Latest version: 0.7.0 (02/02/2018)
+
+[Homepage](https://github.com/stef/pysodium) -
+[GitHub](https://github.com/stef/pysodium) -
+[PyPi](https://pypi.python.org/pypi/pysodium) -
+[API documentation]() -
+[Configuration details](Python/pysodium.config)
 
 ------
 
