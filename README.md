@@ -24,12 +24,13 @@ a brief description of its main features.
 
 #### cryptography.io
 
+Developer: [Python Cryptographic Authority (PyCA)](https://github.com/orgs/pyca/people).
 Latest version: 2.2.1 (03/20/2018)
 
 [Homepage](https://cryptography.io/en/latest/) -
 [GitHub](https://github.com/pyca/cryptography) -
 [PyPi](https://pypi.python.org/pypi/cryptography/) -
-[API documentation](https://cryptography.io/en/latest/) -
+[Documentation](https://cryptography.io/en/latest/) -
 [Configuration details](Python/cryptographyio.config)
 
 #### Keyczar
@@ -39,27 +40,29 @@ Latest version: 0.716 (05/16/2018)
 [Homepage](http://www.keyczar.org/) -
 [GitHub](https://github.com/google/keyczar) -
 [PyPi](https://pypi.python.org/pypi/python-keyczar) -
-[API documentation](https://github.com/google/keyczar/wiki) -
+[Documentation](https://github.com/google/keyczar/wiki) -
 [Configuration details](Python/Keyczar.config)
 
 #### M2Crypto
 
-Latest version: 0.29 (02/23/2018)
+Maintainer: [Matěj Cepl](https://matej.ceplovi.cz/).
+(Latest version: 0.29 (02/23/2018)
 
 [Homepage](https://gitlab.com/m2crypto/m2crypto) -
-[GitHub](https://gitlab.com/m2crypto/m2crypto) -
+[GitLab](https://gitlab.com/m2crypto/m2crypto) -
 [PyPi](https://pypi.python.org/pypi/M2Crypto) -
-[API documentation](https://m2crypto.readthedocs.io/en/latest/) -
+[Documentation](https://m2crypto.readthedocs.io/en/latest/) -
 [Configuration details](Python/M2Crypto.config)
 
 #### pyNaCl
+
 
 Latest version: 1.2.1 (12/04/2018)
 
 [Homepage](https://pynacl.readthedocs.io/en/stable/) -
 [GitHub](https://github.com/pyca/pynacl) -
 [PyPi](https://pypi.python.org/pypi/PyNaCl/) -
-[API documentation](https://pynacl.readthedocs.io/en/stable/) -
+[Documentation](https://pynacl.readthedocs.io/en/stable/) -
 [Configuration details](Python/pyNaCl.config)
 
 #### pyOpenSSL
@@ -69,7 +72,7 @@ Latest version: 17.5.0 (11/30/2017)
 [Homepage](https://pyopenssl.org/en/stable/) -
 [GitHub](https://github.com/pyca/pyopenssl) -
 [PyPi](https://pypi.python.org/pypi/pyOpenSSL) -
-[API documentation](https://pyopenssl.org/en/stable/) -
+[Documentation](https://pyopenssl.org/en/stable/) -
 [Configuration details](Python/pyOpenSSL.config)
 
 #### PyCrypto 
@@ -115,6 +118,19 @@ Latest version: 0.7.0 (02/02/2018)
 ------
 
 ## Java
+
+------
+
+## Uncategorized
+
+#### NTRU
+
+Latest version: 
+
+[Homepage](https://www.onboardsecurity.com/products/ntru-crypto) -
+[GitHub](https://github.com/NTRUOpenSourceProject/ntru-crypto) -
+[Documentation]() -
+[Configuration details]()
 
 ------
 
