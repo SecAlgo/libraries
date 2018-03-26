@@ -54,28 +54,8 @@ Maintainer: [Matěj Cepl](https://matej.ceplovi.cz/).
 [Documentation](https://m2crypto.readthedocs.io/en/latest/) -
 [Configuration details](Python/M2Crypto.config)
 
-#### pyNaCl
-
-
-Latest version: 1.2.1 (12/04/2018)
-
-[Homepage](https://pynacl.readthedocs.io/en/stable/) -
-[GitHub](https://github.com/pyca/pynacl) -
-[PyPi](https://pypi.python.org/pypi/PyNaCl/) -
-[Documentation](https://pynacl.readthedocs.io/en/stable/) -
-[Configuration details](Python/pyNaCl.config)
-
-#### pyOpenSSL
-
-Latest version: 17.5.0 (11/30/2017)
-
-[Homepage](https://pyopenssl.org/en/stable/) -
-[GitHub](https://github.com/pyca/pyopenssl) -
-[PyPi](https://pypi.python.org/pypi/pyOpenSSL) -
-[Documentation](https://pyopenssl.org/en/stable/) -
-[Configuration details](Python/pyOpenSSL.config)
-
 #### PyCrypto 
+
 Python library of cryptographic algorithms implemented in C.
 Includes cryptographic algorithms for shared key
 and public key encryption and authentication, cryptographic hashes, and key
@@ -100,6 +80,29 @@ Latest version: 3.5.1 (03/07/2018)
 [PyPi](https://pypi.python.org/pypi/pycryptodomex) -
 [Documentation](https://pycryptodome.readthedocs.io/en/latest/) -
 [Configuration details](Python/PyCryptodome.config)
+
+#### pyNaCl
+
+
+Latest version: 1.2.1 (12/04/2018)
+
+[Homepage](https://pynacl.readthedocs.io/en/stable/) -
+[GitHub](https://github.com/pyca/pynacl) -
+[PyPi](https://pypi.python.org/pypi/PyNaCl/) -
+[Documentation](https://pynacl.readthedocs.io/en/stable/) -
+[Configuration details](Python/pyNaCl.config)
+
+
+#### pyOpenSSL
+
+Latest version: 17.5.0 (11/30/2017)
+
+[Homepage](https://pyopenssl.org/en/stable/) -
+[GitHub](https://github.com/pyca/pyopenssl) -
+[PyPi](https://pypi.python.org/pypi/pyOpenSSL) -
+[Documentation](https://pyopenssl.org/en/stable/) -
+[Configuration details](Python/pyOpenSSL.config)
+
 
 #### pysodium
 
