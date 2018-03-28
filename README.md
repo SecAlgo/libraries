@@ -24,8 +24,9 @@ a brief description of its main features.
 
 #### cryptography.io
 
-Developer: [Python Cryptographic Authority (PyCA)](https://github.com/orgs/pyca/people).
-Latest version: 2.2.1 (03/20/2018)
+- Developer: [Python Cryptographic Authority (PyCA)](https://github.com/orgs/pyca/people)
+- Latest version: 2.2.1 (03/20/2018)
+- Languages: Python
 
 [Homepage](https://cryptography.io/en/latest/) -
 [GitHub](https://github.com/pyca/cryptography) -
@@ -34,7 +35,8 @@ Latest version: 2.2.1 (03/20/2018)
 
 #### Keyczar
 
-Latest version: 0.716 (05/16/2018)
+- Latest version: 0.716 (05/16/2018)
+- Languages: Java, Python, C++
 
 [Homepage](http://www.keyczar.org/) -
 [GitHub](https://github.com/google/keyczar) -
@@ -43,8 +45,9 @@ Latest version: 0.716 (05/16/2018)
 
 #### M2Crypto
 
-Maintainer: [Matěj Cepl](https://matej.ceplovi.cz/).
-(Latest version: 0.29 (02/23/2018)
+- Maintainer: [Matěj Cepl](https://matej.ceplovi.cz/)
+- Latest version: 0.29 (02/23/2018)
+- Languages: Python
 
 [Homepage](https://gitlab.com/m2crypto/m2crypto) -
 [GitLab](https://gitlab.com/m2crypto/m2crypto) -
@@ -54,14 +57,14 @@ Maintainer: [Matěj Cepl](https://matej.ceplovi.cz/).
 #### PyCrypto 
 
 Python library of cryptographic algorithms implemented in C.
-Includes cryptographic algorithms for shared key
-and public key encryption and authentication, cryptographic hashes, and key
-derivation. Also provides a secure PRNG, a strong version of Python's random
+Includes cryptographic algorithms for shared key and public key 
+encryption and authentication, cryptographic hashes, and key derivation. 
+Also provides a secure PRNG, a strong version of Python's random
 module, and a small set of useful mathematical operations.
 
-Developer: [Dwayne Litzenberger](https://www.dlitz.net/).
-
-Latest version: 2.6.1 (10/14/2013).
+- Developer: [Dwayne Litzenberger](https://www.dlitz.net/)
+- Latest version: 2.6.1 (10/14/2013).
+- Languages: Python, C
 
 [Homepage](https://www.dlitz.net/software/pycrypto/) -
 [GitHub](https://github.com/dlitz/pycrypto) -
@@ -71,7 +74,8 @@ Latest version: 2.6.1 (10/14/2013).
 
 #### PyCryptodome
 
-Latest version: 3.5.1 (03/07/2018)
+- Latest version: 3.5.1 (03/07/2018)
+- Languages: Python, C
 
 [Homepage](https://www.pycryptodome.org/en/latest/) -
 [GitHub](https://github.com/Legrandin/pycryptodome) -
@@ -81,9 +85,8 @@ Latest version: 3.5.1 (03/07/2018)
 
 #### pyNaCl
 
-Latest version: 1.2.1 (12/04/2018)
-
-Languages: Python
+- Latest version: 1.2.1 (12/04/2018)
+- Languages: Python
 
 [Homepage](https://pynacl.readthedocs.io/en/stable/) -
 [GitHub](https://github.com/pyca/pynacl) -
@@ -92,9 +95,8 @@ Languages: Python
 
 #### pyOpenSSL
 
-Latest version: 17.5.0 (11/30/2017)
-
-Languages: Python
+- Latest version: 17.5.0 (11/30/2017)
+- Languages: Python
 
 [Homepage](https://pyopenssl.org/en/stable/) -
 [GitHub](https://github.com/pyca/pyopenssl) -
@@ -103,9 +105,8 @@ Languages: Python
 
 #### pysodium
 
-Latest version: 0.7.0 (02/02/2018)
-
-Languages: Python
+- Latest version: 0.7.0 (02/02/2018)
+- Languages: Python
 
 [Homepage](https://github.com/stef/pysodium) -
 [GitHub](https://github.com/stef/pysodium) -
@@ -115,9 +116,13 @@ Languages: Python
 
 ## C
 
+#### OpenSSL
+
 ------
 
 ## Java
+
+#### Bouncy Castle
 
 ------
 
@@ -125,7 +130,7 @@ Languages: Python
 
 #### NTRU
 
-Latest version: 
+- Languages: C, Java
 
 [Homepage](https://www.onboardsecurity.com/products/ntru-crypto) -
 [GitHub](https://github.com/NTRUOpenSourceProject/ntru-crypto)
