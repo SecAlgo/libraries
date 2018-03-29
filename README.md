@@ -25,20 +25,26 @@ a brief description of its main features.
 #### cryptography.io
 
 - Developer: [Python Cryptographic Authority (PyCA)](https://github.com/orgs/pyca/people)
+- Initial Release: 01/08/2014
 - Latest version: 2.2.1 (03/20/2018)
 - Languages: Python
+- License: [Apache 2.0](http://apache.org/licenses/LICENSE-2.0) or
+           [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
 
-[Homepage](https://cryptography.io/en/latest/) -
+[Website](https://cryptography.io/en/latest/) -
 [GitHub](https://github.com/pyca/cryptography) -
 [PyPi](https://pypi.python.org/pypi/cryptography/) -
 [Documentation](https://cryptography.io/en/latest/)
 
 #### Keyczar
 
+- Developer: 
+- Initial Release: 
 - Latest version: 0.716 (05/16/2018)
 - Languages: Java, Python, C++
+- License: [Apache 2.0](http://apache.org/licenses/LICENSE-2.0)
 
-[Homepage](http://www.keyczar.org/) -
+[Website](http://www.keyczar.org/) -
 [GitHub](https://github.com/google/keyczar) -
 [PyPi](https://pypi.python.org/pypi/python-keyczar) -
 [Documentation](https://github.com/google/keyczar/wiki)
@@ -49,7 +55,7 @@ a brief description of its main features.
 - Latest version: 0.29 (02/23/2018)
 - Languages: Python
 
-[Homepage](https://gitlab.com/m2crypto/m2crypto) -
+[Website](https://gitlab.com/m2crypto/m2crypto) -
 [GitLab](https://gitlab.com/m2crypto/m2crypto) -
 [PyPi](https://pypi.python.org/pypi/M2Crypto) -
 [Documentation](https://m2crypto.readthedocs.io/en/latest/)
@@ -66,7 +72,7 @@ module, and a small set of useful mathematical operations.
 - Latest version: 2.6.1 (10/14/2013).
 - Languages: Python, C
 
-[Homepage](https://www.dlitz.net/software/pycrypto/) -
+[Website](https://www.dlitz.net/software/pycrypto/) -
 [GitHub](https://github.com/dlitz/pycrypto) -
 [PyPi](https://pypi.python.org/pypi/pycrypto/2.6.1) -
 [API documentation](https://www.dlitz.net/software/pycrypto/api/current/) -
@@ -77,7 +83,7 @@ module, and a small set of useful mathematical operations.
 - Latest version: 3.5.1 (03/07/2018)
 - Languages: Python, C
 
-[Homepage](https://www.pycryptodome.org/en/latest/) -
+[Website](https://www.pycryptodome.org/en/latest/) -
 [GitHub](https://github.com/Legrandin/pycryptodome) -
 [PyPi](https://pypi.python.org/pypi/pycryptodomex) -
 [Documentation](https://pycryptodome.readthedocs.io/en/latest/) -
@@ -88,7 +94,7 @@ module, and a small set of useful mathematical operations.
 - Latest version: 1.2.1 (12/04/2018)
 - Languages: Python
 
-[Homepage](https://pynacl.readthedocs.io/en/stable/) -
+[Website](https://pynacl.readthedocs.io/en/stable/) -
 [GitHub](https://github.com/pyca/pynacl) -
 [PyPi](https://pypi.python.org/pypi/PyNaCl/) -
 [Documentation](https://pynacl.readthedocs.io/en/stable/)
@@ -98,7 +104,7 @@ module, and a small set of useful mathematical operations.
 - Latest version: 17.5.0 (11/30/2017)
 - Languages: Python
 
-[Homepage](https://pyopenssl.org/en/stable/) -
+[Website](https://pyopenssl.org/en/stable/) -
 [GitHub](https://github.com/pyca/pyopenssl) -
 [PyPi](https://pypi.python.org/pypi/pyOpenSSL) -
 [Documentation](https://pyopenssl.org/en/stable/)
@@ -108,7 +114,7 @@ module, and a small set of useful mathematical operations.
 - Latest version: 0.7.0 (02/02/2018)
 - Languages: Python
 
-[Homepage](https://github.com/stef/pysodium) -
+[Website](https://github.com/stef/pysodium) -
 [GitHub](https://github.com/stef/pysodium) -
 [PyPi](https://pypi.python.org/pypi/pysodium)
 
@@ -132,7 +138,7 @@ module, and a small set of useful mathematical operations.
 
 - Languages: C, Java
 
-[Homepage](https://www.onboardsecurity.com/products/ntru-crypto) -
+[Website](https://www.onboardsecurity.com/products/ntru-crypto) -
 [GitHub](https://github.com/NTRUOpenSourceProject/ntru-crypto)
 
 ------
