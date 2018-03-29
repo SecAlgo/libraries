@@ -70,7 +70,7 @@ module, and a small set of useful mathematical operations.
 
 - Developer: [Dwayne Litzenberger](https://www.dlitz.net/)
 - Latest version: 2.6.1 (10/14/2013).
-- Languages: Python, C
+- Languages: Python
 
 [Website](https://www.dlitz.net/software/pycrypto/) -
 [GitHub](https://github.com/dlitz/pycrypto) -
@@ -81,7 +81,7 @@ module, and a small set of useful mathematical operations.
 #### PyCryptodome
 
 - Latest version: 3.5.1 (03/07/2018)
-- Languages: Python, C
+- Languages: Python
 
 [Website](https://www.pycryptodome.org/en/latest/) -
 [GitHub](https://github.com/Legrandin/pycryptodome) -
